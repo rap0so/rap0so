@@ -1,6 +1,6 @@
 <img width="1200" height="320" alt="banner" src="https://github.com/user-attachments/assets/75bc3206-bcde-4172-b2fd-81f9467ebaf6" />
 
-<h3 align="center">Hi 👋🏾 I love expressing art through code</h3>
+<h3 align="center">Expressing art through code</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/w-godoy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
