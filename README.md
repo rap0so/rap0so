@@ -14,7 +14,6 @@
 
 - 🇧🇷 Brazilian, based in 📍 **Stockholm, Sweden**
 - 💼 Frontend Engineer at **BetMGM** (Sports), building with React, Next.js and TypeScript
-- 🚀 Former CTO of a SaaS startup for restaurant cost management & business intelligence
 - 🎨 Diving deep into **creative development**: motion design, GSAP, Three.js, React Three Fiber and WebGL shaders
 - 🤖 Exploring AI agent orchestration to automate the dev workflow end to end
 
